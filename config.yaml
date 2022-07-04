@@ -1,0 +1,11 @@
+auth:
+  user_agent: Mass DM (by u/Substantial-Rice-330)
+  username: 
+  password: 
+  client_id: 
+  client_secret: 
+recipients:
+  - Reasonable-Put5744
+  - Substantial-Rice-330
+subject: Test message
+message: Message from praw
